@@ -1,0 +1,28 @@
+html, body {
+    background-color: lightslategray;
+    color: #eeeeee;
+}
+
+.app {
+    display: block;
+    text-align: center;
+}
+
+.counter {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+button {
+    background-color: limegreen;
+    color: snow;
+    border: none;
+    padding: 1rem;
+    font-size: 1rem;
+    margin: 0 0.5rem;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: mediumseagreen;
+}
